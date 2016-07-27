@@ -1,3 +1,3 @@
-# meteor-react-twitterStream
+# Twitter steam with Meteor/React.
 
 LALALA
