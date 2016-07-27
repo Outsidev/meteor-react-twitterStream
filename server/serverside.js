@@ -14,7 +14,7 @@ twApi = new TwitMaker({
   consumer_key: "xxx",
   consumer_secret: "xxx",
   access_token: "xxx",
-  access_token_secret: "xxxx"
+  access_token_secret: "xxxxx"
 });
 
 Meteor.publish('daDB', function(){
