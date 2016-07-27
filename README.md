@@ -1,3 +1,1 @@
-# Twitter steam with Meteor/React.
-
-LALALA
+# Twitter steam with Meteor/React
