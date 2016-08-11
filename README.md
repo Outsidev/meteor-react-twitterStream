@@ -1,1 +1,1 @@
-# Twitter steam with Meteor/React
+# Twitter stream with Meteor/React
